@@ -16,7 +16,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <img src="https://img.shields.io/static/v1?label=Nível&message=Básico&color=E94D5F&labelColor=202024" alt="Nível Básico" />
 </p>
 
 ---
